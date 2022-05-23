@@ -1,4 +1,4 @@
-name: Common
+name: Make Recovery
 
 on:
   workflow_dispatch:
